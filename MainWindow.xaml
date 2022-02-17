@@ -6,7 +6,6 @@
         xmlns:local="clr-namespace:Györffy_Dániel_Hegyek_WPF_11A"
         mc:Ignorable="d"
         Title="MainWindow" Height="450" Width="800">
-    <Grid x:Name="RootGrid">
+    <Canvas x:Name="RootCanvas"/>
 
-    </Grid>
 </Window>
